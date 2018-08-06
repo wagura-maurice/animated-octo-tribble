@@ -58,4 +58,5 @@ group :production do
 	# On heroku Production
 	gem 'pg'
 	gem 'rails_12factor'
+	gem 'heroku-deflater'
 end
